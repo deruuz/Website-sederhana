@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.bg-atas {
+    background: #FECD45;
+} 
+
+.bg-atas div ul {
+    color: rgb(84, 255, 255);
+}
+.bg-isi{
+    background-image: url("BGISI.jpg");
+}
+body {
+    font-family: 'Poppins', sans-serif !important;
+    background-image: url("BG.jpg") ;
+    background-size:  cover;
+}
